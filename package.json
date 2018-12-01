@@ -7,6 +7,8 @@
   "author": "Michael Newman",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.9.0"
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-plugin-react": "^7.11.1"
   }
 }
