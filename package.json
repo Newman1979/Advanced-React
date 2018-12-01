@@ -1,0 +1,12 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React",
+  "main": "lib/server.js",
+  "repository": "https://github.com/Newman1979/Advanced-React.git",
+  "author": "Michael Newman",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
